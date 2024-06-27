@@ -50,7 +50,7 @@ window.plugin.drawTools.setOptions = function() {
     stroke: true,
     color: window.plugin.drawTools.currentColor,
     weight: 4,
-    opacity: 0.5,
+    opacity: 0.1,
     fill: false,
     interactive: true
   };
